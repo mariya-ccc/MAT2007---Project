@@ -40,11 +40,12 @@ It also prints the following results:
 
 
 ### Requirements
-- Python 3
+- Python 3.14
 - NumPy
 - pandas
 - Matplotlib
 - SciPy
+  
 
 ### Installation
 Install the required libraries using:
