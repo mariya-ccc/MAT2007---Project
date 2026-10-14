@@ -64,7 +64,6 @@ python3 -m pip install numpy pandas matplotlib scipy
 ```bash
 python3 "Project code.py"
 ```
-.
 
 
 
