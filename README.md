@@ -55,5 +55,17 @@ python3 -m pip install numpy pandas matplotlib scipy
 ```
 
 
+### Execution
+1. Download or clone this GitHub repository.
+2. Make sure `black_hole_data.txt` is in the same directory as the Python script.
+3. Open a terminal in that folder.
+4. Run the Python script:
+
+```bash
+python3 "Project code.py"
+```
+.
+
+
 
 
