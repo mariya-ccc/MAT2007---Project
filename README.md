@@ -25,8 +25,9 @@ This project investigates the relationship between the mass of supermassive blac
   
 ## Output
 The script generates two figures:
-- `black_hole_mass_distribution.png`
-- `black_hole_mass_vs_luminosity.png`
+- `black_hole_mass_distribution.png` - Histogram showing the distribution of black-hole masses.
+- `black_hole_mass_vs_luminosity.png` - Scatter plot showing the relationship between black-hole mass and AGN bolometric luminosity.
+
 
 It also prints the following results:
 
