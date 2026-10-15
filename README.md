@@ -19,8 +19,8 @@ This project investigates the relationship between the mass of supermassive blac
 - Plots a histogram of black-hole masses.
 - Creates a scatter plot of black-hole mass versus AGN bolometric luminosity.
 - Calculates the Pearson correlation coefficient.
-- Estimates the statistical uncertainty using bootstrapping (10,000 samples with replacement).
-- Calculates the ratio between the correlation coefficient and its statistical uncertainty.
+- Estimates the bootstrap statistical uncertainty using bootstrapping (10,000 samples with replacement).
+- Calculates the ratio between the correlation coefficient and its bootstrap statistical uncertainty.
 
   
 ## Output
